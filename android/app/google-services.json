@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015534994275",
+    "project_id": "adhar-loan-2-e352b",
+    "storage_bucket": "adhar-loan-2-e352b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015534994275:android:4c873a1eb19ac46bf20956",
+        "android_client_info": {
+          "package_name": "com.example.adhar_loan_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015534994275-153cgc6egor57eqp3rhfj7mg79n6embv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHKnGuc7dqvctT9wdNJ5InQBpQ8tbTxkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015534994275-153cgc6egor57eqp3rhfj7mg79n6embv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
